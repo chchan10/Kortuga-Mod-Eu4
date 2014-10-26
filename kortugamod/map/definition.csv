@@ -1,5 +1,5 @@
 province;red;green;blue;x;x
-1;128;34;64;Thori;x
+1;128;34;64;Thoren;x
 2;0;36;128;Spori;x
 3;128;38;192;Albemath;x
 4;0;40;255;Dubel;x
@@ -223,14 +223,14 @@ province;red;green;blue;x;x
 222;31;92;128;Artelia;x
 223;159;94;192;Rumia;x
 224;32;96;255;Badlands;x
-225;160;98;0;Córdoba;x
+225;160;98;0;CÃ³rdoba;x
 226;32;100;64;Gibraltar;x
 227;160;102;128;Lisboa;x
 228;32;104;192;Beira;x
 229;160;106;255;Alentejo;x
 230;32;108;0;Algarve;x
 231;161;110;64;Porto;x
-232;33;112;128;Bragança;x
+232;33;112;128;BraganÃ§a;x
 233;161;114;192;Cornwall;x
 234;33;116;255;Wessex;x
 235;161;118;0;Kent;x
@@ -825,7 +825,7 @@ province;red;green;blue;x;x
 824;117;144;255;Mariquita;x
 825;245;146;0;Bogota;x
 826;118;148;64;Choco;x
-827;246;150;128;Antioquía;x
+827;246;150;128;AntioquÃ­a;x
 828;118;152;192;Cartagena;x
 829;246;154;255;Magdalena;x
 830;118;156;0;Maracaibo;x
@@ -840,7 +840,7 @@ province;red;green;blue;x;x
 839;128;42;79;Pipil;x
 840;0;44;126;Honduras;x
 841;129;46;173;Guatemala;x
-842;1;48;32;Petén;x
+842;1;48;32;PetÃ©n;x
 843;129;50;79;Belize;x
 844;1;52;126;Zapotec;x
 845;129;54;173;Campeche;x
@@ -1248,17 +1248,17 @@ province;red;green;blue;x;x
 1247;187;90;79;Corsica;x
 1248;59;92;126;Maldives;x
 1249;187;94;173;Yola;x
-1250;1;200;200;Vänern;x
-1251;2;200;250;Vättern;x
+1250;1;200;200;VÃ¤nern;x
+1251;2;200;250;VÃ¤ttern;x
 1252;3;220;250;Gulf of Bothnia;x
-1253;4;250;250;Ålands Hav;x
+1253;4;250;250;Ã…lands Hav;x
 1254;5;200;200;Gulf of Finland;x
 1255;6;200;250;Western Baltic Sea;x
 1256;7;220;250;Gulf of Riga;x
 1257;8;250;250;Southern Baltic Sea;x
-1258;9;200;200;Öresund;x
+1258;9;200;200;Ã–resund;x
 1259;10;200;250;Kattegat;x
-1260;11;220;250;Peipsi Järv;x
+1260;11;220;250;Peipsi JÃ¤rv;x
 1261;12;250;250;Ladoga;x
 1262;13;200;200;Onega;x
 1263;14;200;250;Barents Sea;x
@@ -1767,7 +1767,7 @@ province;red;green;blue;x;x
 1766;70;116;126;Kosovo;x
 1767;198;118;173;Osijek;x
 1768;70;120;32;Lienz;x
-1769;198;122;79;Görz;x
+1769;198;122;79;GÃ¶rz;x
 1770;70;124;126;Ostmarch;x
 1771;198;126;173;Erz;x
 1772;70;128;32;Presburg;x
@@ -1803,7 +1803,7 @@ province;red;green;blue;x;x
 1802;203;62;173;Northern Amazonas;x
 1803;75;64;32;Southern Amazonas;x
 1804;203;66;79;Greenland;x
-1805;75;68;126;Québec;x
+1805;75;68;126;QuÃ©bec;x
 1806;203;70;173;Weagamow;x
 1807;76;72;32;Baffin Island;x
 1808;204;74;79;Great Basin;x
@@ -1867,7 +1867,7 @@ province;red;green;blue;x;x
 1866;212;62;173;Namur ;x
 1867;84;64;32;Freiburg;x
 1868;212;66;79;Augsburg;x
-1869;84;68;126;Zürich;x
+1869;84;68;126;ZÃ¼rich;x
 1870;213;70;173;S:t Gallen;x
 1871;85;72;32;Wallis;x
 1872;86;84;126;Ulm;x
@@ -1879,8 +1879,8 @@ province;red;green;blue;x;x
 1878;214;86;173;Aachen;x
 1879;86;88;32;Alencon;x
 1880;214;90;79;Sundgau;x
-1881;213;74;79;St. Barthélemy;x
-1882;214;94;173;Bône;x
+1881;213;74;79;St. BarthÃ©lemy;x
+1882;214;94;173;BÃ´ne;x
 1883;0;0;232;Western Finish lakes;x
 1884;1;0;236;East Finish lakes;x
 1885;2;0;240;Central finish lakes;x
@@ -1923,12 +1923,12 @@ province;red;green;blue;x;x
 1922;39;0;248;Great salt lake;x
 1923;40;0;232;Williston Lake;x
 1924;62;206;252;Greenland tip;x
-1925;62;214;252;Bält sound;x
+1925;62;214;252;BÃ¤lt sound;x
 1926;62;230;252;Northern baltic sea;x
 1927;62;218;252;Eastern baltic sea;x
 1928;62;234;252;Western Alands sea;x
 1929;62;210;252;Western Norwegian Sea;x
-1930;237;154;79;Åland;x
+1930;237;154;79;Ã…land;x
 1931;130;60;50;East Frisia;x
 1932;49;150;248;Gulf of Satalia;x
 1933;50;0;232;Bari;x
@@ -1975,15 +1975,15 @@ province;red;green;blue;x;x
 1974;215;110;173;Yedishkul;x
 1975;105;225;255;Sea of Jutland;x
 1976;93;0;244;Dead Sea;x
-1977;94;0;248;Mälaren;x
+1977;94;0;248;MÃ¤laren;x
 1978;95;0;232;Shetlands;x
-1979;96;0;236;Färöarnax;x
+1979;96;0;236;FÃ¤rÃ¶arnax;x
 1980;136;253;253;Sea of Japan;x
 1981;98;0;244;Bornholm;x
 1982;99;0;248;Blekinge;x
 1983;100;0;232;Lolland;x
 1984;101;0;236;Nordjylland;x
-1985;102;240;0;Närke;x
+1985;102;240;0;NÃ¤rke;x
 1986;103;0;244;New Caledonia;x
 1987;104;0;248;Society Islands;x
 1988;105;0;232;Rapa Nui;x
@@ -2000,11 +2000,11 @@ province;red;green;blue;x;x
 1999;116;0;236;Cocos Island;x
 2000;60;221;221;Qinghai Lake;x
 2001;95;200;200;Siling Lake;x
-2002;200;135;255;Galápagos Islands;x
+2002;200;135;255;GalÃ¡pagos Islands;x
 2003;120;2;232;Ktunaxa;X
 2004;125;4;236;Niitsitapi;x
 2005;130;8;240;Asinaan;x
-2006;135;16;244;Apsáalooke;x
+2006;135;16;244;ApsÃ¡alooke;x
 2007;140;32;248;Arikara;x
 2008;145;64;232;Yankton;x
 2009;150;128;236;Teton;x
